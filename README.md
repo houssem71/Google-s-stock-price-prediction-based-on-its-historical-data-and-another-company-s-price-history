@@ -1,5 +1,5 @@
 # Google-s-stock-price-prediction-based-on-its-historical-data-and-another-company-s-price-history
-in this project, I carried out an analysis of the time series which represents the price of the action of Google, after a work of exploration and reshaping of data,
+In this project, I carried out an analysis of the time series which represents the price of the action of Google, after a work of exploration and reshaping of data,
 I appealed to another database which includes another company's stock price to form another indicator to predict Google's stock price.
 For this project, we used an advanced deep learning algorithm which is composed of 4 LSTM architectures, each of which is formed by 50 neurons. 
 Following the modeling, we were able to do the prediction test over the period from 03/01/2017 to 31/01/2017 and we obtained the curve which compares the real value of the action over this period and the value predicted by our model. 
