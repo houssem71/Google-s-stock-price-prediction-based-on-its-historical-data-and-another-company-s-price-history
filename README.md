@@ -7,6 +7,6 @@ The major finding for this project is the fact that the prediction quality of th
 Other terms, the more the value of the action of the other company is corrolated to that of Google, the better the result. 
 Moreover, in case of the good choice of the second database, we will have a smooth curve at the end and which follows the same trend as the real value of the action of Google. 
 The results obtained can be improved by: 
-1- increasing the number of LSTM architects used 
+1- increasing the number of LSTM architectures used 
 2- The number of neurons per architecture 
 3-by increasing the timestep which is right now equal to 50
